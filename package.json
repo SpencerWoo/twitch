@@ -1,0 +1,23 @@
+{
+  "name": "twitch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpencerWoo/twitch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpencerWoo/twitch/issues"
+  },
+  "homepage": "https://github.com/SpencerWoo/twitch#readme",
+  "dependencies": {
+    "say": "^0.16.0"
+  }
+}
